@@ -1,0 +1,6 @@
+{{#user}
+Name: Ashish
+Skills: HTML, CSS, JS, Next.js
+Email: test@gmail.com
+{{/user}}
+
